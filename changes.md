@@ -1,8 +1,11 @@
 # OmegaT (cApStAn) customization
 
-## Update 78_c00 ()
+## Update 78_cs0 (2023-03-08)
 
 * Config: Added all subscript and superscript digits and a few other characters used in maths
+* Config: Removed modification info from top of segment
+* Config: Inverted order of “” in character table
+* Config: Notify user when a segment has comments
 * Script: Updated `pisaconv.groovy` so that it only matches XLIFF files from ETS up to PISA 2022
 * Script: Added `team-project-sync.groovy`, which removes local files not found in repo
 * Script: Added `goto_next_alternative.groovy`, which goes to the next segment with an alternative translation (duh!)

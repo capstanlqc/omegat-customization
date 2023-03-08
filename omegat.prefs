@@ -4,6 +4,7 @@
     <glossary_replace_on_insert>true</glossary_replace_on_insert>
     <glossary_not_exact_match>false</glossary_not_exact_match>
     <notify_glossary_hits>true</notify_glossary_hits>
+    <notify_comments>true</notify_comments>
     <source_font>Dialog</source_font>
     <source_font_size>14</source_font_size>
     <sb_progress_mode>DEFAULT</sb_progress_mode>
