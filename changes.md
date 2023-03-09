@@ -1,5 +1,9 @@
 # OmegaT (cApStAn) customization
 
+## Update 79_cs0 (2023-03-09)
+
+* Script: Disable prompt in offline projects.
+
 ## Update 78_cs0 (2023-03-08)
 
 * Config: Added all subscript and superscript digits and a few other characters used in maths
