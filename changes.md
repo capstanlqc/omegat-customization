@@ -1,5 +1,9 @@
 # OmegaT (cApStAn) customization
 
+## Update 80_c00 (2023-03-09)
+
+* Config: Added Comments pane to the top right.
+
 ## Update 79_cs0 (2023-03-09)
 
 * Script: Disable prompt in offline projects.

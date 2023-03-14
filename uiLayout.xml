@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <VLDocking version="2.1">
 <DockingDesktop name="">
-<DockingPanel x="0" y="0" width="929" height="840">
-<Split orientation="1" location="0.5450500556173526">
-<Split orientation="0" location="0.5463483146067416">
+<DockingPanel x="991" y="113" width="929" height="840">
+<Split orientation="1" location="0.5433589462129528">
+<Split orientation="0" location="0.545201668984701">
 <Dockable>
 <Key dockName="EDITOR"/>
 </Dockable>
@@ -11,11 +11,16 @@
 <Key dockName="MATCHES"/>
 </Dockable>
 </Split>
-<Split orientation="0" location="0.6573033707865169">
-<Split orientation="0" location="0.5387931034482759">
+<Split orientation="0" location="0.7885952712100139">
+<Split orientation="0" location="0.6802841918294849">
+<Split orientation="0" location="0.503957783641161">
+<Dockable>
+<Key dockName="COMMENTS"/>
+</Dockable>
 <Dockable>
 <Key dockName="SEGMENTPROPERTIES"/>
 </Dockable>
+</Split>
 <Dockable>
 <Key dockName="MULTIPLE_TRANS"/>
 </Dockable>
@@ -38,10 +43,6 @@
 <Dockable>
 <Key dockName="NOTES"/>
 <RelativePosition x="0.6784968972206116" y="0.005359056871384382" w="0.15657620131969452" h="0.6012861728668213" />
-</Dockable>
-<Dockable>
-<Key dockName="COMMENTS"/>
-<RelativePosition x="0.6784968972206116" y="0.610932469367981" w="0.3162839114665985" h="0.17470525205135345" />
 </Dockable>
 </Border>
 <TabGroups>
