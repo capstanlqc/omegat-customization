@@ -1,8 +1,9 @@
 # OmegaT (cApStAn) customization
 
-## Update 80_c00 (2023-03-09)
+## Update 80_csp (2023-03-09)
 
 * Config: Added Comments pane to the top right.
+* Plugin: Updated Okapi plugin 1.12-1.44.0 from 24a23ea-jre8 to 6e59379-jre8
 
 ## Update 79_cs0 (2023-03-09)
 
