@@ -1,5 +1,9 @@
 # OmegaT (cApStAn) customization
 
+## Update 81_c0p (2023-05-15)
+
+* Plugin: Added `TmxCommentsProvider-1.1.jar` to enable T&A notes in the Comments pane
+
 ## Update 80_csp (2023-03-09)
 
 * Config: Added Comments pane to the top right.
