@@ -29,7 +29,7 @@ The script will run and customize your installation. You might need to restart O
 ### Linux (both desktop and servers)
 
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/capstanlqc/omegat_customization/master/custo/omtlinux_custom_installer.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/capstanlqc/omegat-customization/master/custo/omtlinux_custom_installer.sh)"
 ```
 
 ### macOS
