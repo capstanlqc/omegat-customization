@@ -40,15 +40,7 @@ if (eventType == LOAD) {
 	}
 
 	diffDirRemoteLocal(props, dir = "source")
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-	diffDirRemoteLocal(props, dir = "tm")
-=======
 	// diffDirRemoteLocal(props, dir = "tm")
->>>>>>> Stashed changes
-=======
-	// diffDirRemoteLocal(props, dir = "tm")
->>>>>>> 8d7a4e8 (Updated script project_changed/team-project-sync.groovy so that only source dir is flushed by default)
 	console.println("Sync done.")
 }
 
