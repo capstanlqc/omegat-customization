@@ -1,5 +1,9 @@
 # OmegaT (cApStAn) customization
 
+## Update 82_0s0 (2023-07-17)
+
+* Script: Added GUI version of the `team-project-sync.groovy` script that syncs files and TMs
+
 ## Update 81_c0p (2023-05-15)
 
 * Plugin: Added `TmxCommentsProvider-1.1.jar` to enable T&A notes in the Comments pane
