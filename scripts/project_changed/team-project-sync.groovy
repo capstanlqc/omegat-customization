@@ -40,7 +40,11 @@ if (eventType == LOAD) {
 	}
 
 	diffDirRemoteLocal(props, dir = "source")
+<<<<<<< Updated upstream
 	diffDirRemoteLocal(props, dir = "tm")
+=======
+	// diffDirRemoteLocal(props, dir = "tm")
+>>>>>>> Stashed changes
 	console.println("Sync done.")
 }
 
