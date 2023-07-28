@@ -1,5 +1,9 @@
 # OmegaT (cApStAn) customization
 
+## Update 83_c00 (2023-07-27)
+
+* Config: Added custom tags for interpolated variables in YSC text files
+
 ## Update 82_0s0 (2023-07-17)
 
 * Script: Added GUI version of the `team-project-sync.groovy` script that syncs files and TMs
