@@ -1,5 +1,9 @@
 # OmegaT (cApStAn) customization
 
+## Update 84_cs0 (2023-10-06)
+
+* Script: Added customization script for OmegaT 5.7.2
+
 ## Update 83_c00 (2023-07-27)
 
 * Config: Added custom tags for interpolated variables in YSC text files
