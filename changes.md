@@ -1,5 +1,9 @@
 # OmegaT (cApStAn) customization
 
+## Update 85_cs0 (2024-03-21)
+
+* Script: Added `checkOMTversion.groovy` to check for the correct OmegaT version/hash in cApStAn projects (e.g. PISA, FLASH, etc.)
+
 ## Update 84_cs0 (2023-10-06)
 
 * Script: Added customization script for OmegaT 5.7.2
